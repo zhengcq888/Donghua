@@ -21,7 +21,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     
-        System.out.println("=======333333333333=");
+        System.out.println("=======6666666=");
 
         tv = (TextView) findViewById(R.id.tv);
         iv = (ImageView) findViewById(R.id.img);
