@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Donghua/Donghua.iml" filepath="$PROJECT_DIR$/Donghua/Donghua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DonghuaProject.iml" filepath="$PROJECT_DIR$/DonghuaProject.iml" />
+    </modules>
+  </component>
+</project>
+
